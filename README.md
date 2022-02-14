@@ -13,7 +13,8 @@ essa solução. Além disso, caso queira ir além, implemente suas próprias evo
 
 1. Pacote - br.com.bacodigita;
 2. Classe - AppBanco: Método Main;
-3. Classe - Banco: Harança da Classe Cliente, um Atributo Privado, Método Contrutor sem Parâmetro e vazio, Método Contrutor <br>com Parâmetro e retorno e Método com Parâmetro e sem retorno;
+3. Classe - Banco: Harança da Classe Cliente, um Atributo Privado, Método Contrutor sem Parâmetro e vazio, Método Contrutor com Parâmetro e retorno e Método com Parâmetro e sem retorno;
+4. Classe Abstrata - Conta: Implementa a Interface IConta, três Atributos Privados Finais, um Atributo Privado, três Atributos Protegidos, Método Contrutor sem Parâmetro e vazio, Método Contrutor com Parâmetro e sem retorno;
 
 ## Sujestões de Melhorias:
 

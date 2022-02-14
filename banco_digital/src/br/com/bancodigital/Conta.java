@@ -49,7 +49,5 @@ public abstract class Conta implements IConta{
         System.out.println(String.format("\nSaldo-R$ %.2f", this.saldo));
         System.out.println(String.format("\nTitular da Conta: %s", this.cliente.getNomeCliente()));
         System.out.println("===================================================\n");
-
-
     }
 }
