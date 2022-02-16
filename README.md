@@ -20,7 +20,7 @@
 
 ## Resultado final do Projeto Banco Digital:
 
-💻 De acordo com os códigos aplicados e utilizando as melhorias sujeriadas para o projeto são obtidas seguintes as respostas na compilação e excução:  
+💻 De acordo com os códigos aplicados e utilizando as melhorias sujeriadas para o projeto são obtidas os seguintes resultados de compilação e excução:  
 
 - Extratos dos Clientes - Conta Corrente: 
 
