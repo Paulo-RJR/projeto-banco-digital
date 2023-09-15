@@ -1,6 +1,6 @@
 # Projeto Banco Digital:
 
-💻 Projeto elaborado para entrega de desafio com uso da Linguagem de Programação Java sujerido em Bootcamp.
+💻 Projeto elaborado para entrega de desafio com uso da Linguagem de Programação Java sugerido em Bootcamp.
 
 ## Objetivo do Projeto:
 
@@ -16,11 +16,11 @@
 ## Sugestões de Melhorias:
 
 1. Incluir novas Classes, Atributos e Métodos;
-2. Incluir o Plugin Lombok ao projeto, para reduzir sua verbosidade(excesso) de código.
+2. Incluir o Plugin Lombok ao projeto, para reduzir sua verbosidade (excesso) de código.
 
 ## Resultado final do Projeto Banco Digital:
 
-💻 De acordo com os códigos aplicados e utilizando as melhorias sujeriadas para o projeto são obtidas os seguintes resultados de compilação e excução:  
+💻 De acordo com os códigos aplicados e utilizandos com algumas melhorias neste projeto. Obtive os seguintes resultados, após compilação e excução do projeto (programa) pronto:  
 
 - Extratos dos Clientes - Conta Corrente: 
 
